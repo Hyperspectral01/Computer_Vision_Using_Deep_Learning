@@ -63,24 +63,6 @@ Make sure you have the following installed:
 - 📦 **Jupyter Notebook**  
 - 🖥️ **Deep Learning Frameworks**: PyTorch or TensorFlow  
 
-### Run Notebooks  
-1. Clone the repository:  
-   ```bash  
-   git clone https://github.com/Hyperspectral01/Computer_Vision_Using_Deep_Learning.git  
-   ```  
-2. Navigate to the project directory:  
-   ```bash  
-   cd Computer_Vision_Using_Deep_Learning  
-   ```  
-3. Install dependencies:  
-   ```bash  
-   pip install -r requirements.txt  
-   ```  
-4. Launch Jupyter Notebook:  
-   ```bash  
-   jupyter notebook  
-   ```  
-
 ---
 
 ## ✨ **Visual Workflow**  
